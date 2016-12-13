@@ -1,0 +1,1738 @@
+{
+    "f6": {
+        "day_weather": "晴",
+        "night_weather": "晴",
+        "night_weather_code": "00",
+        "index": {
+            "yh": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "ls": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "clothes": {
+                "title": "较冷",
+                "desc": "建议着厚外套加毛衣等服装。"
+            },
+            "dy": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "sports": {
+                "title": "较不宜",
+                "desc": "推荐您进行各种室内运动。"
+            },
+            "travel": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "beauty": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "xq": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "hc": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "zs": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "cold": {
+                "title": "较易发",
+                "desc": "天较凉，增加衣服，注意防护。"
+            },
+            "gj": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "uv": {
+                "title": "中等",
+                "desc": "涂擦SPF大于15、PA+防晒护肤品。"
+            },
+            "cl": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "glass": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "wash_car": {
+                "title": "较适宜",
+                "desc": "无雨且风力较小，易保持清洁度。"
+            },
+            "aqi": {
+                "title": "中",
+                "desc": "易感人群应适当减少室外活动。"
+            },
+            "ac": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "mf": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "ag": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "pj": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "nl": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "pk": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            }
+        },
+        "air_press": "1021 hPa",
+        "jiangshui": "0%",
+        "night_wind_power": "微风 <5.4m/s",
+        "day_wind_power": "微风 <5.4m/s",
+        "day_weather_code": "00",
+        "3hourForcast": [
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "6",
+                "wind_power": "微风,4",
+                "weather": "多云",
+                "weather_pic": "http://app1.showapi.com/weather/icon/day/01.png",
+                "temperature_min": "-3",
+                "hour": "8时-14时",
+                "temperature": "0"
+            },
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "6",
+                "wind_power": "微风,4",
+                "weather": "晴",
+                "weather_pic": "http://app1.showapi.com/weather/icon/day/00.png",
+                "temperature_min": "0",
+                "hour": "14时-20时",
+                "temperature": "6"
+            },
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "6",
+                "wind_power": "微风,0",
+                "weather": "晴",
+                "weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+                "temperature_min": "-1",
+                "hour": "20时-2时",
+                "temperature": "0"
+            },
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "0",
+                "wind_power": "微风,0",
+                "weather": "晴",
+                "weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+                "temperature_min": "-1",
+                "hour": "2时-8时",
+                "temperature": "-1"
+            }
+        ],
+        "sun_begin_end": "07:17|16:50",
+        "ziwaixian": "中等",
+        "day_weather_pic": "http://app1.showapi.com/weather/icon/day/00.png",
+        "weekday": 3,
+        "night_air_temperature": "-2",
+        "day_air_temperature": "7",
+        "day_wind_direction": "无持续风向",
+        "day": "20161130",
+        "night_weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+        "night_wind_direction": "无持续风向"
+    },
+    "f7": {
+        "day_weather": "晴",
+        "night_weather": "晴",
+        "night_weather_code": "00",
+        "index": {
+            "yh": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "ls": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "clothes": {
+                "title": "较冷",
+                "desc": "建议着厚外套加毛衣等服装。"
+            },
+            "dy": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "sports": {
+                "title": "较不宜",
+                "desc": "推荐您进行各种室内运动。"
+            },
+            "travel": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "beauty": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "xq": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "hc": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "zs": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "cold": {
+                "title": "较易发",
+                "desc": "天凉温差大，适当增减衣服。"
+            },
+            "gj": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "uv": {
+                "title": "中等",
+                "desc": "涂擦SPF大于15、PA+防晒护肤品。"
+            },
+            "cl": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "glass": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "wash_car": {
+                "title": "较适宜",
+                "desc": "无雨且风力较小，易保持清洁度。"
+            },
+            "aqi": {
+                "title": "中",
+                "desc": "易感人群应适当减少室外活动。"
+            },
+            "ac": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "mf": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "ag": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "pj": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "nl": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "pk": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            }
+        },
+        "air_press": "1021 hPa",
+        "jiangshui": "0%",
+        "night_wind_power": "微风 <5.4m/s",
+        "day_wind_power": "微风 <5.4m/s",
+        "day_weather_code": "00",
+        "3hourForcast": [
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "6",
+                "wind_power": "微风,4",
+                "weather": "晴",
+                "weather_pic": "http://app1.showapi.com/weather/icon/day/00.png",
+                "temperature_min": "-1",
+                "hour": "8时-14时",
+                "temperature": "0"
+            },
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "6",
+                "wind_power": "微风,4",
+                "weather": "晴",
+                "weather_pic": "http://app1.showapi.com/weather/icon/day/00.png",
+                "temperature_min": "-2",
+                "hour": "14时-20时",
+                "temperature": "6"
+            },
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "6",
+                "wind_power": "微风,0",
+                "weather": "晴",
+                "weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+                "temperature_min": "-3",
+                "hour": "20时-2时",
+                "temperature": "-2"
+            },
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "-2",
+                "wind_power": "微风,0",
+                "weather": "晴",
+                "weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+                "temperature_min": "-3",
+                "hour": "2时-8时",
+                "temperature": "-3"
+            }
+        ],
+        "sun_begin_end": "07:18|16:50",
+        "ziwaixian": "中等",
+        "day_weather_pic": "http://app1.showapi.com/weather/icon/day/00.png",
+        "weekday": 4,
+        "night_air_temperature": "-4",
+        "day_air_temperature": "7",
+        "day_wind_direction": "无持续风向",
+        "day": "20161201",
+        "night_weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+        "night_wind_direction": "无持续风向"
+    },
+    "ret_code": 0,
+    "time": "20161125073000",
+    "now": {
+        "aqiDetail": {
+            "co": 2.408,
+            "so2": 12,
+            "area": "北京",
+            "o3": 2,
+            "no2": 76,
+            "area_code": "beijing",
+            "quality": "轻度污染",
+            "aqi": 121,
+            "pm10": 127,
+            "pm2_5": 91,
+            "o3_8h": 3,
+            "primary_pollutant": "颗粒物(PM2.5)"
+        },
+        "weather_code": "01",
+        "wind_direction": "东北风",
+        "temperature_time": "09:30",
+        "wind_power": "1级",
+        "aqi": 121,
+        "sd": "56%",
+        "weather_pic": "http://appimg.showapi.com/images/weather/icon/day/01.png",
+        "weather": "多云",
+        "temperature": "0"
+    },
+    "cityInfo": {
+        "c6": "beijing",
+        "c5": "北京",
+        "c4": "beijing",
+        "c3": "北京",
+        "c9": "中国",
+        "c8": "china",
+        "c7": "北京",
+        "c17": "+8",
+        "c16": "AZ9010",
+        "c1": "101010100",
+        "c2": "beijing",
+        "longitude": 116.391,
+        "c11": "010",
+        "latitude": 39.904,
+        "c10": "1",
+        "c12": "100000",
+        "c15": "33"
+    },
+    "alarmList": [],
+    "hourDataList": [
+        {
+            "aqiDetail": {
+                "co": 2.5,
+                "so2": 28,
+                "area": "北京",
+                "o3": 3,
+                "no2": 91,
+                "area_code": "beijing",
+                "quality": "重度污染",
+                "aqi": 203,
+                "pm10": 191,
+                "pm2_5": 152,
+                "o3_8h": 7,
+                "primary_pollutant": "颗粒物(PM2.5)"
+            },
+            "weather_code": "53",
+            "wind_direction": "西南风",
+            "temperature_time": "00:02",
+            "wind_power": "1级",
+            "aqi": 203,
+            "sd": "53%",
+            "weather_pic": "http://appimg.showapi.com/images/weather/icon/night/53.png",
+            "weather": "霾",
+            "temperature": "0"
+        },
+        {
+            "aqiDetail": {
+                "co": 2.5,
+                "so2": 28,
+                "area": "北京",
+                "o3": 3,
+                "no2": 91,
+                "area_code": "beijing",
+                "quality": "重度污染",
+                "aqi": 203,
+                "pm10": 191,
+                "pm2_5": 152,
+                "o3_8h": 7,
+                "primary_pollutant": "颗粒物(PM2.5)"
+            },
+            "weather_code": "00",
+            "wind_direction": "西风",
+            "temperature_time": "00:31",
+            "wind_power": "1级",
+            "aqi": 203,
+            "sd": "56%",
+            "weather_pic": "http://appimg.showapi.com/images/weather/icon/night/00.png",
+            "weather": "晴",
+            "temperature": "-1"
+        },
+        {
+            "aqiDetail": {
+                "co": 3.008,
+                "so2": 28,
+                "area": "北京",
+                "o3": 4,
+                "no2": 93,
+                "area_code": "beijing",
+                "quality": "重度污染",
+                "aqi": 206,
+                "pm10": 198,
+                "pm2_5": 155,
+                "o3_8h": 5,
+                "primary_pollutant": "颗粒物(PM2.5)"
+            },
+            "weather_code": "00",
+            "wind_direction": "西南风",
+            "temperature_time": "01:00",
+            "wind_power": "1级",
+            "aqi": 206,
+            "sd": "55%",
+            "weather_pic": "http://appimg.showapi.com/images/weather/icon/night/00.png",
+            "weather": "晴",
+            "temperature": "-1"
+        },
+        {
+            "aqiDetail": {
+                "co": 3.008,
+                "so2": 28,
+                "area": "北京",
+                "o3": 4,
+                "no2": 93,
+                "area_code": "beijing",
+                "quality": "重度污染",
+                "aqi": 206,
+                "pm10": 198,
+                "pm2_5": 155,
+                "o3_8h": 5,
+                "primary_pollutant": "颗粒物(PM2.5)"
+            },
+            "weather_code": "00",
+            "wind_direction": "北风",
+            "temperature_time": "01:30",
+            "wind_power": "0级",
+            "aqi": 206,
+            "sd": "60%",
+            "weather_pic": "http://appimg.showapi.com/images/weather/icon/night/00.png",
+            "weather": "晴",
+            "temperature": "-2"
+        },
+        {
+            "aqiDetail": {
+                "co": 3.108,
+                "so2": 25,
+                "area": "北京",
+                "o3": 4,
+                "no2": 90,
+                "area_code": "beijing",
+                "quality": "中度污染",
+                "aqi": 200,
+                "pm10": 197,
+                "pm2_5": 150,
+                "o3_8h": 4,
+                "primary_pollutant": "颗粒物(PM2.5)"
+            },
+            "weather_code": "00",
+            "wind_direction": "西南风",
+            "temperature_time": "02:00",
+            "wind_power": "1级",
+            "aqi": 200,
+            "sd": "62%",
+            "weather_pic": "http://appimg.showapi.com/images/weather/icon/night/00.png",
+            "weather": "晴",
+            "temperature": "-2"
+        },
+        {
+            "aqiDetail": {
+                "co": 3.108,
+                "so2": 25,
+                "area": "北京",
+                "o3": 4,
+                "no2": 90,
+                "area_code": "beijing",
+                "quality": "中度污染",
+                "aqi": 200,
+                "pm10": 197,
+                "pm2_5": 150,
+                "o3_8h": 4,
+                "primary_pollutant": "颗粒物(PM2.5)"
+            },
+            "weather_code": "00",
+            "wind_direction": "东南风",
+            "temperature_time": "02:30",
+            "wind_power": "1级",
+            "aqi": 200,
+            "sd": "64%",
+            "weather_pic": "http://appimg.showapi.com/images/weather/icon/night/00.png",
+            "weather": "晴",
+            "temperature": "-2"
+        },
+        {
+            "aqiDetail": {
+                "co": 3.242,
+                "so2": 25,
+                "area": "北京",
+                "o3": 4,
+                "no2": 87,
+                "area_code": "beijing",
+                "quality": "中度污染",
+                "aqi": 191,
+                "pm10": 194,
+                "pm2_5": 143,
+                "o3_8h": 4,
+                "primary_pollutant": "颗粒物(PM2.5)"
+            },
+            "weather_code": "00",
+            "wind_direction": "东北风",
+            "temperature_time": "03:01",
+            "wind_power": "1级",
+            "aqi": 191,
+            "sd": "68%",
+            "weather_pic": "http://appimg.showapi.com/images/weather/icon/night/00.png",
+            "weather": "晴",
+            "temperature": "-4"
+        },
+        {
+            "aqiDetail": {
+                "co": 3.242,
+                "so2": 25,
+                "area": "北京",
+                "o3": 4,
+                "no2": 87,
+                "area_code": "beijing",
+                "quality": "中度污染",
+                "aqi": 191,
+                "pm10": 194,
+                "pm2_5": 143,
+                "o3_8h": 4,
+                "primary_pollutant": "颗粒物(PM2.5)"
+            },
+            "weather_code": "00",
+            "wind_direction": "东北风",
+            "temperature_time": "03:31",
+            "wind_power": "1级",
+            "aqi": 191,
+            "sd": "72%",
+            "weather_pic": "http://appimg.showapi.com/images/weather/icon/night/00.png",
+            "weather": "晴",
+            "temperature": "-4"
+        },
+        {
+            "aqiDetail": {
+                "co": 3.092,
+                "so2": 20,
+                "area": "北京",
+                "o3": 4,
+                "no2": 87,
+                "area_code": "beijing",
+                "quality": "中度污染",
+                "aqi": 186,
+                "pm10": 186,
+                "pm2_5": 140,
+                "o3_8h": 4,
+                "primary_pollutant": "颗粒物(PM2.5)"
+            },
+            "weather_code": "00",
+            "wind_direction": "东风",
+            "temperature_time": "04:00",
+            "wind_power": "1级",
+            "aqi": 186,
+            "sd": "73%",
+            "weather_pic": "http://appimg.showapi.com/images/weather/icon/night/00.png",
+            "weather": "晴",
+            "temperature": "-4"
+        },
+        {
+            "aqiDetail": {
+                "co": 3.092,
+                "so2": 20,
+                "area": "北京",
+                "o3": 4,
+                "no2": 87,
+                "area_code": "beijing",
+                "quality": "中度污染",
+                "aqi": 186,
+                "pm10": 186,
+                "pm2_5": 140,
+                "o3_8h": 4,
+                "primary_pollutant": "颗粒物(PM2.5)"
+            },
+            "weather_code": "00",
+            "wind_direction": "东风",
+            "temperature_time": "04:30",
+            "wind_power": "1级",
+            "aqi": 186,
+            "sd": "72%",
+            "weather_pic": "http://appimg.showapi.com/images/weather/icon/night/00.png",
+            "weather": "晴",
+            "temperature": "-4"
+        },
+        {
+            "aqiDetail": {
+                "co": 2.833,
+                "so2": 16,
+                "area": "北京",
+                "o3": 3,
+                "no2": 83,
+                "area_code": "beijing",
+                "quality": "中度污染",
+                "aqi": 171,
+                "pm10": 162,
+                "pm2_5": 129,
+                "o3_8h": 4,
+                "primary_pollutant": "颗粒物(PM2.5)"
+            },
+            "weather_code": "00",
+            "wind_direction": "东风",
+            "temperature_time": "05:01",
+            "wind_power": "1级",
+            "aqi": 171,
+            "sd": "72%",
+            "weather_pic": "http://appimg.showapi.com/images/weather/icon/night/00.png",
+            "weather": "晴",
+            "temperature": "-4"
+        },
+        {
+            "aqiDetail": {
+                "co": 2.833,
+                "so2": 16,
+                "area": "北京",
+                "o3": 3,
+                "no2": 83,
+                "area_code": "beijing",
+                "quality": "中度污染",
+                "aqi": 171,
+                "pm10": 162,
+                "pm2_5": 129,
+                "o3_8h": 4,
+                "primary_pollutant": "颗粒物(PM2.5)"
+            },
+            "weather_code": "00",
+            "wind_direction": "东风",
+            "temperature_time": "05:30",
+            "wind_power": "1级",
+            "aqi": 171,
+            "sd": "70%",
+            "weather_pic": "http://appimg.showapi.com/images/weather/icon/night/00.png",
+            "weather": "晴",
+            "temperature": "-4"
+        },
+        {
+            "aqiDetail": {
+                "co": 2.392,
+                "so2": 13,
+                "area": "北京",
+                "o3": 3,
+                "no2": 78,
+                "area_code": "beijing",
+                "quality": "轻度污染",
+                "aqi": 144,
+                "pm10": 137,
+                "pm2_5": 110,
+                "o3_8h": 3,
+                "primary_pollutant": "颗粒物(PM2.5)"
+            },
+            "weather_code": "00",
+            "wind_direction": "东南风",
+            "temperature_time": "06:01",
+            "wind_power": "1级",
+            "aqi": 144,
+            "sd": "69%",
+            "weather_pic": "http://appimg.showapi.com/images/weather/icon/night/00.png",
+            "weather": "晴",
+            "temperature": "-4"
+        },
+        {
+            "aqiDetail": {
+                "co": 2.392,
+                "so2": 13,
+                "area": "北京",
+                "o3": 3,
+                "no2": 78,
+                "area_code": "beijing",
+                "quality": "轻度污染",
+                "aqi": 144,
+                "pm10": 137,
+                "pm2_5": 110,
+                "o3_8h": 3,
+                "primary_pollutant": "颗粒物(PM2.5)"
+            },
+            "weather_code": "00",
+            "wind_direction": "北风",
+            "temperature_time": "06:30",
+            "wind_power": "1级",
+            "aqi": 144,
+            "sd": "73%",
+            "weather_pic": "http://appimg.showapi.com/images/weather/icon/night/00.png",
+            "weather": "晴",
+            "temperature": "-5"
+        },
+        {
+            "aqiDetail": {
+                "co": 2.392,
+                "so2": 13,
+                "area": "北京",
+                "o3": 3,
+                "no2": 78,
+                "area_code": "beijing",
+                "quality": "轻度污染",
+                "aqi": 144,
+                "pm10": 137,
+                "pm2_5": 110,
+                "o3_8h": 3,
+                "primary_pollutant": "颗粒物(PM2.5)"
+            },
+            "weather_code": "00",
+            "wind_direction": "东北风",
+            "temperature_time": "07:00",
+            "wind_power": "1级",
+            "aqi": 144,
+            "sd": "74%",
+            "weather_pic": "http://appimg.showapi.com/images/weather/icon/night/00.png",
+            "weather": "晴",
+            "temperature": "-5"
+        },
+        {
+            "aqiDetail": {
+                "co": 2.3,
+                "so2": 13,
+                "area": "北京",
+                "o3": 2,
+                "no2": 76,
+                "area_code": "beijing",
+                "quality": "轻度污染",
+                "aqi": 131,
+                "pm10": 131,
+                "pm2_5": 99,
+                "o3_8h": 3,
+                "primary_pollutant": "颗粒物(PM2.5)"
+            },
+            "weather_code": "00",
+            "wind_direction": "东北风",
+            "temperature_time": "07:30",
+            "wind_power": "1级",
+            "aqi": 131,
+            "sd": "77%",
+            "weather_pic": "http://appimg.showapi.com/images/weather/icon/day/00.png",
+            "weather": "晴",
+            "temperature": "-5"
+        },
+        {
+            "aqiDetail": {
+                "co": 2.458,
+                "so2": 11,
+                "area": "北京",
+                "o3": 2,
+                "no2": 77,
+                "area_code": "beijing",
+                "quality": "轻度污染",
+                "aqi": 126,
+                "pm10": 122,
+                "pm2_5": 95,
+                "o3_8h": 3,
+                "primary_pollutant": "颗粒物(PM2.5)"
+            },
+            "weather_code": "00",
+            "wind_direction": "东风",
+            "temperature_time": "08:00",
+            "wind_power": "1级",
+            "aqi": 126,
+            "sd": "71%",
+            "weather_pic": "http://appimg.showapi.com/images/weather/icon/day/00.png",
+            "weather": "晴",
+            "temperature": "-4"
+        },
+        {
+            "aqiDetail": {
+                "co": 2.458,
+                "so2": 11,
+                "area": "北京",
+                "o3": 2,
+                "no2": 77,
+                "area_code": "beijing",
+                "quality": "轻度污染",
+                "aqi": 126,
+                "pm10": 122,
+                "pm2_5": 95,
+                "o3_8h": 3,
+                "primary_pollutant": "颗粒物(PM2.5)"
+            },
+            "weather_code": "01",
+            "wind_direction": "东风",
+            "temperature_time": "08:31",
+            "wind_power": "1级",
+            "aqi": 126,
+            "sd": "71%",
+            "weather_pic": "http://appimg.showapi.com/images/weather/icon/day/01.png",
+            "weather": "多云",
+            "temperature": "-4"
+        },
+        {
+            "aqiDetail": {
+                "co": 2.408,
+                "so2": 12,
+                "area": "北京",
+                "o3": 2,
+                "no2": 76,
+                "area_code": "beijing",
+                "quality": "轻度污染",
+                "aqi": 121,
+                "pm10": 127,
+                "pm2_5": 91,
+                "o3_8h": 3,
+                "primary_pollutant": "颗粒物(PM2.5)"
+            },
+            "weather_code": "01",
+            "wind_direction": "东北风",
+            "temperature_time": "09:30",
+            "wind_power": "1级",
+            "aqi": 121,
+            "sd": "56%",
+            "weather_pic": "http://appimg.showapi.com/images/weather/icon/day/01.png",
+            "weather": "多云",
+            "temperature": "0"
+        }
+    ],
+    "f1": {
+        "day_weather": "霾",
+        "night_weather": "霾",
+        "night_weather_code": "53",
+        "index": {
+            "yh": {
+                "title": "较适宜",
+                "desc": "纷飞的雪花随风飘洒会给约会增添情趣。"
+            },
+            "ls": {
+                "title": "较适宜晾晒 ",
+                "desc": "请在室外通风的地方晾晒。"
+            },
+            "clothes": {
+                "title": "冷",
+                "desc": "建议着棉衣加羊毛衫等冬季服装。"
+            },
+            "dy": {
+                "title": "较适宜钓鱼 ",
+                "desc": "气象条件对钓鱼影响不大。"
+            },
+            "sports": {
+                "title": "较不宜",
+                "desc": "有扬沙或浮尘，建议停止户外运动。"
+            },
+            "travel": {
+                "title": " 适宜旅游 ",
+                "desc": "享受大自然的无限风光吧。"
+            },
+            "beauty": {
+                "title": "滋润保湿",
+                "desc": "请选用滋润保湿型化妆品。"
+            },
+            "xq": {
+                "title": "较差",
+                "desc": "迷雾笼罩，置身其中，情绪低落。"
+            },
+            "hc": {
+                "title": "不适宜",
+                "desc": "天气不好，建议选择别的娱乐方式。"
+            },
+            "zs": {
+                "title": "无",
+                "desc": "气温不高，中暑几率极低。"
+            },
+            "cold": {
+                "title": "易发",
+                "desc": "天冷湿度大温差大，易感冒。"
+            },
+            "gj": {
+                "title": "较不宜",
+                "desc": "有雾，空气质量差，尽量避免逛街。"
+            },
+            "uv": {
+                "title": "最弱",
+                "desc": "辐射弱，涂擦SPF8-12防晒护肤品。"
+            },
+            "cl": {
+                "title": "较不宜晨练 ",
+                "desc": "受天气影响，较不宜晨练。"
+            },
+            "glass": {
+                "title": "不需要",
+                "desc": "白天能见度差不需要佩戴太阳镜"
+            },
+            "wash_car": {
+                "title": "不宜",
+                "desc": "有霾，会弄脏您的爱车。"
+            },
+            "aqi": {
+                "title": "很差",
+                "desc": "气象条件不利于空气污染物扩散。"
+            },
+            "ac": {
+                "title": "开启制暖空调",
+                "desc": "体感略冷，建议开启暖空调调节室温。"
+            },
+            "mf": {
+                "title": "一般",
+                "desc": "建议选用防晒保湿型护发品或带遮阳帽。"
+            },
+            "ag": {
+                "title": "不易过敏 ",
+                "desc": "天气条件不利于过敏源传播。"
+            },
+            "pj": {
+                "title": "不适宜",
+                "desc": "天气寒冷，可少量饮用常温啤酒。"
+            },
+            "nl": {
+                "title": "较不适宜",
+                "desc": "建议夜生活最好在室内进行。"
+            },
+            "pk": {
+                "title": "不宜",
+                "desc": "天气不好，不适宜放风筝。"
+            }
+        },
+        "air_press": "1021 hPa",
+        "jiangshui": "9%",
+        "night_wind_power": "微风 <5.4m/s",
+        "day_wind_power": "微风 <5.4m/s",
+        "day_weather_code": "53",
+        "3hourForcast": [
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "0",
+                "wind_power": "微风,2",
+                "weather": "多云",
+                "weather_pic": "http://app1.showapi.com/weather/icon/day/01.png",
+                "temperature_min": "-3",
+                "hour": "8时-11时",
+                "temperature": "-3"
+            },
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "4",
+                "wind_power": "微风,4",
+                "weather": "霾",
+                "weather_pic": "http://app1.showapi.com/weather/icon/day/53.png",
+                "temperature_min": "-3",
+                "hour": "11时-14时",
+                "temperature": "0"
+            },
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "4",
+                "wind_power": "微风,4",
+                "weather": "霾",
+                "weather_pic": "http://app1.showapi.com/weather/icon/day/53.png",
+                "temperature_min": "0",
+                "hour": "14时-17时",
+                "temperature": "4"
+            },
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "4",
+                "wind_power": "微风,4",
+                "weather": "霾",
+                "weather_pic": "http://app1.showapi.com/weather/icon/day/53.png",
+                "temperature_min": "-2",
+                "hour": "17时-20时",
+                "temperature": "1"
+            },
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "1",
+                "wind_power": "微风,0",
+                "weather": "霾",
+                "weather_pic": "http://app1.showapi.com/weather/icon/night/53.png",
+                "temperature_min": "-2",
+                "hour": "20时-23时",
+                "temperature": "-2"
+            },
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "-2",
+                "wind_power": "微风,0",
+                "weather": "霾",
+                "weather_pic": "http://app1.showapi.com/weather/icon/night/53.png",
+                "temperature_min": "-2",
+                "hour": "23时-2时",
+                "temperature": "-2"
+            },
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "-2",
+                "wind_power": "微风,0",
+                "weather": "霾",
+                "weather_pic": "http://app1.showapi.com/weather/icon/night/53.png",
+                "temperature_min": "-4",
+                "hour": "2时-5时",
+                "temperature": "-2"
+            },
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "-2",
+                "wind_power": "微风,0",
+                "weather": "霾",
+                "weather_pic": "http://app1.showapi.com/weather/icon/night/53.png",
+                "temperature_min": "-4",
+                "hour": "5时-8时",
+                "temperature": "-4"
+            }
+        ],
+        "sun_begin_end": "07:11|16:52",
+        "ziwaixian": "中等",
+        "day_weather_pic": "http://app1.showapi.com/weather/icon/day/53.png",
+        "weekday": 5,
+        "night_air_temperature": "-5",
+        "day_air_temperature": "5",
+        "day_wind_direction": "无持续风向",
+        "day": "20161125",
+        "night_weather_pic": "http://app1.showapi.com/weather/icon/night/53.png",
+        "night_wind_direction": "无持续风向"
+    },
+    "f3": {
+        "day_weather": "晴",
+        "night_weather": "晴",
+        "night_weather_code": "00",
+        "index": {
+            "yh": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "ls": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "clothes": {
+                "title": "较冷",
+                "desc": "建议着厚外套加毛衣等服装。"
+            },
+            "dy": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "sports": {
+                "title": "较不宜",
+                "desc": "天气寒冷，推荐您进行室内运动。"
+            },
+            "travel": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "beauty": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "xq": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "hc": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "zs": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "cold": {
+                "title": "易发",
+                "desc": "昼夜温差大，易感冒。"
+            },
+            "gj": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "uv": {
+                "title": "中等",
+                "desc": "涂擦SPF大于15、PA+防晒护肤品。"
+            },
+            "cl": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "glass": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "wash_car": {
+                "title": "较适宜",
+                "desc": "无雨且风力较小，易保持清洁度。"
+            },
+            "aqi": {
+                "title": "良",
+                "desc": "气象条件有利于空气污染物扩散。"
+            },
+            "ac": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "mf": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "ag": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "pj": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "nl": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "pk": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            }
+        },
+        "air_press": "1021 hPa",
+        "jiangshui": "0%",
+        "night_wind_power": "微风 <5.4m/s",
+        "day_wind_power": "3-4级 5.5~7.9m/s",
+        "day_weather_code": "00",
+        "3hourForcast": [
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "5",
+                "wind_power": "微风,1",
+                "weather": "晴",
+                "weather_pic": "http://app1.showapi.com/weather/icon/day/00.png",
+                "temperature_min": "-2",
+                "hour": "8时-11时",
+                "temperature": "0"
+            },
+            {
+                "wind_direction": "北风",
+                "temperature_max": "6",
+                "wind_power": "3-4级,2",
+                "weather": "晴",
+                "weather_pic": "http://app1.showapi.com/weather/icon/day/00.png",
+                "temperature_min": "0",
+                "hour": "11时-14时",
+                "temperature": "5"
+            },
+            {
+                "wind_direction": "北风",
+                "temperature_max": "6",
+                "wind_power": "微风,2",
+                "weather": "晴",
+                "weather_pic": "http://app1.showapi.com/weather/icon/day/00.png",
+                "temperature_min": "2",
+                "hour": "14时-17时",
+                "temperature": "6"
+            },
+            {
+                "wind_direction": "北风",
+                "temperature_max": "6",
+                "wind_power": "微风,1",
+                "weather": "晴",
+                "weather_pic": "http://app1.showapi.com/weather/icon/day/00.png",
+                "temperature_min": "1",
+                "hour": "17时-20时",
+                "temperature": "2"
+            },
+            {
+                "wind_direction": "北风",
+                "temperature_max": "2",
+                "wind_power": "微风,0",
+                "weather": "晴",
+                "weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+                "temperature_min": "0",
+                "hour": "20时-23时",
+                "temperature": "1"
+            },
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "1",
+                "wind_power": "微风,0",
+                "weather": "晴",
+                "weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+                "temperature_min": "-4",
+                "hour": "23时-2时",
+                "temperature": "0"
+            },
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "0",
+                "wind_power": "微风,0",
+                "weather": "晴",
+                "weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+                "temperature_min": "-4",
+                "hour": "2时-5时",
+                "temperature": "-4"
+            },
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "-2",
+                "wind_power": "微风,0",
+                "weather": "晴",
+                "weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+                "temperature_min": "-4",
+                "hour": "5时-8时",
+                "temperature": "-4"
+            }
+        ],
+        "sun_begin_end": "07:14|16:51",
+        "ziwaixian": "中等",
+        "day_weather_pic": "http://app1.showapi.com/weather/icon/day/00.png",
+        "weekday": 7,
+        "night_air_temperature": "-5",
+        "day_air_temperature": "7",
+        "day_wind_direction": "北风",
+        "day": "20161127",
+        "night_weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+        "night_wind_direction": "无持续风向"
+    },
+    "f2": {
+        "day_weather": "晴",
+        "night_weather": "晴",
+        "night_weather_code": "00",
+        "index": {
+            "yh": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "ls": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "clothes": {
+                "title": "较冷",
+                "desc": "建议着厚外套加毛衣等服装。"
+            },
+            "dy": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "sports": {
+                "title": "较不宜",
+                "desc": "推荐您进行各种室内运动。"
+            },
+            "travel": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "beauty": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "xq": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "hc": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "zs": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "cold": {
+                "title": "易发",
+                "desc": "昼夜温差大，易感冒。"
+            },
+            "gj": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "uv": {
+                "title": "中等",
+                "desc": "涂擦SPF大于15、PA+防晒护肤品。"
+            },
+            "cl": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "glass": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "wash_car": {
+                "title": "较适宜",
+                "desc": "无雨且风力较小，易保持清洁度。"
+            },
+            "aqi": {
+                "title": "中",
+                "desc": "易感人群应适当减少室外活动。"
+            },
+            "ac": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "mf": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "ag": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "pj": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "nl": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "pk": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            }
+        },
+        "air_press": "1021 hPa",
+        "jiangshui": "0%",
+        "night_wind_power": "微风 <5.4m/s",
+        "day_wind_power": "微风 <5.4m/s",
+        "day_weather_code": "00",
+        "3hourForcast": [
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "6",
+                "wind_power": "微风,4",
+                "weather": "霾",
+                "weather_pic": "http://app1.showapi.com/weather/icon/day/53.png",
+                "temperature_min": "-4",
+                "hour": "8时-11时",
+                "temperature": "-2"
+            },
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "7",
+                "wind_power": "微风,4",
+                "weather": "晴",
+                "weather_pic": "http://app1.showapi.com/weather/icon/day/00.png",
+                "temperature_min": "-2",
+                "hour": "11时-14时",
+                "temperature": "6"
+            },
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "7",
+                "wind_power": "微风,4",
+                "weather": "晴",
+                "weather_pic": "http://app1.showapi.com/weather/icon/day/00.png",
+                "temperature_min": "3",
+                "hour": "14时-17时",
+                "temperature": "7"
+            },
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "7",
+                "wind_power": "微风,4",
+                "weather": "晴",
+                "weather_pic": "http://app1.showapi.com/weather/icon/day/00.png",
+                "temperature_min": "0",
+                "hour": "17时-20时",
+                "temperature": "3"
+            },
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "3",
+                "wind_power": "微风,0",
+                "weather": "晴",
+                "weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+                "temperature_min": "0",
+                "hour": "20时-23时",
+                "temperature": "0"
+            },
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "0",
+                "wind_power": "微风,0",
+                "weather": "晴",
+                "weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+                "temperature_min": "-3",
+                "hour": "23时-2时",
+                "temperature": "0"
+            },
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "0",
+                "wind_power": "微风,0",
+                "weather": "晴",
+                "weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+                "temperature_min": "-3",
+                "hour": "2时-5时",
+                "temperature": "-3"
+            },
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "0",
+                "wind_power": "微风,0",
+                "weather": "晴",
+                "weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+                "temperature_min": "-3",
+                "hour": "5时-8时",
+                "temperature": "-2"
+            }
+        ],
+        "sun_begin_end": "07:13|16:52",
+        "ziwaixian": "中等",
+        "day_weather_pic": "http://app1.showapi.com/weather/icon/day/00.png",
+        "weekday": 6,
+        "night_air_temperature": "-4",
+        "day_air_temperature": "8",
+        "day_wind_direction": "无持续风向",
+        "day": "20161126",
+        "night_weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+        "night_wind_direction": "无持续风向"
+    },
+    "f5": {
+        "day_weather": "阴",
+        "night_weather": "多云",
+        "night_weather_code": "01",
+        "index": {
+            "yh": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "ls": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "clothes": {
+                "title": "冷",
+                "desc": "建议着棉衣加羊毛衫等冬季服装。"
+            },
+            "dy": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "sports": {
+                "title": "较不宜",
+                "desc": "推荐您在室内进行低强度运动。"
+            },
+            "travel": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "beauty": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "xq": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "hc": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "zs": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "cold": {
+                "title": "较易发",
+                "desc": "天较凉，增加衣服，注意防护。"
+            },
+            "gj": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "uv": {
+                "title": "最弱",
+                "desc": "辐射弱，涂擦SPF8-12防晒护肤品。"
+            },
+            "cl": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "glass": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "wash_car": {
+                "title": "较适宜",
+                "desc": "无雨且风力较小，易保持清洁度。"
+            },
+            "aqi": {
+                "title": "较差",
+                "desc": "气象条件较不利于空气污染物扩散。"
+            },
+            "ac": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "mf": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "ag": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "pj": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "nl": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "pk": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            }
+        },
+        "air_press": "1021 hPa",
+        "jiangshui": "12%",
+        "night_wind_power": "微风 <5.4m/s",
+        "day_wind_power": "微风 <5.4m/s",
+        "day_weather_code": "02",
+        "3hourForcast": [
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "2",
+                "wind_power": "微风,3",
+                "weather": "阴",
+                "weather_pic": "http://app1.showapi.com/weather/icon/day/02.png",
+                "temperature_min": "-2",
+                "hour": "8时-14时",
+                "temperature": "-1"
+            },
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "2",
+                "wind_power": "微风,3",
+                "weather": "阴",
+                "weather_pic": "http://app1.showapi.com/weather/icon/day/02.png",
+                "temperature_min": "-2",
+                "hour": "14时-20时",
+                "temperature": "2"
+            },
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "2",
+                "wind_power": "微风,0",
+                "weather": "阴",
+                "weather_pic": "http://app1.showapi.com/weather/icon/night/02.png",
+                "temperature_min": "-3",
+                "hour": "20时-2时",
+                "temperature": "-2"
+            },
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "0",
+                "wind_power": "微风,0",
+                "weather": "多云",
+                "weather_pic": "http://app1.showapi.com/weather/icon/night/01.png",
+                "temperature_min": "-3",
+                "hour": "2时-8时",
+                "temperature": "-3"
+            }
+        ],
+        "sun_begin_end": "07:16|16:51",
+        "ziwaixian": "中等",
+        "day_weather_pic": "http://app1.showapi.com/weather/icon/day/02.png",
+        "weekday": 2,
+        "night_air_temperature": "-4",
+        "day_air_temperature": "3",
+        "day_wind_direction": "无持续风向",
+        "day": "20161129",
+        "night_weather_pic": "http://app1.showapi.com/weather/icon/night/01.png",
+        "night_wind_direction": "无持续风向"
+    },
+    "f4": {
+        "day_weather": "多云",
+        "night_weather": "阴",
+        "night_weather_code": "02",
+        "index": {
+            "yh": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "ls": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "clothes": {
+                "title": "较冷",
+                "desc": "建议着厚外套加毛衣等服装。"
+            },
+            "dy": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "sports": {
+                "title": "较不宜",
+                "desc": "推荐您进行各种室内运动。"
+            },
+            "travel": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "beauty": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "xq": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "hc": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "zs": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "cold": {
+                "title": "较易发",
+                "desc": "天凉温差大，适当增减衣服。"
+            },
+            "gj": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "uv": {
+                "title": "最弱",
+                "desc": "辐射弱，涂擦SPF8-12防晒护肤品。"
+            },
+            "cl": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "glass": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "wash_car": {
+                "title": "较适宜",
+                "desc": "无雨且风力较小，易保持清洁度。"
+            },
+            "aqi": {
+                "title": "中",
+                "desc": "易感人群应适当减少室外活动。"
+            },
+            "ac": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "mf": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "ag": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "pj": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "nl": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            },
+            "pk": {
+                "title": "暂缺",
+                "desc": "暂缺"
+            }
+        },
+        "air_press": "1021 hPa",
+        "jiangshui": "15%",
+        "night_wind_power": "微风 <5.4m/s",
+        "day_wind_power": "微风 <5.4m/s",
+        "day_weather_code": "01",
+        "3hourForcast": [
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "5",
+                "wind_power": "微风,2",
+                "weather": "晴",
+                "weather_pic": "http://app1.showapi.com/weather/icon/day/00.png",
+                "temperature_min": "-4",
+                "hour": "8时-14时",
+                "temperature": "-2"
+            },
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "5",
+                "wind_power": "微风,2",
+                "weather": "多云",
+                "weather_pic": "http://app1.showapi.com/weather/icon/day/01.png",
+                "temperature_min": "-2",
+                "hour": "14时-20时",
+                "temperature": "5"
+            },
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "5",
+                "wind_power": "微风,0",
+                "weather": "多云",
+                "weather_pic": "http://app1.showapi.com/weather/icon/night/01.png",
+                "temperature_min": "-2",
+                "hour": "20时-2时",
+                "temperature": "0"
+            },
+            {
+                "wind_direction": "无持续风向",
+                "temperature_max": "0",
+                "wind_power": "微风,0",
+                "weather": "阴",
+                "weather_pic": "http://app1.showapi.com/weather/icon/night/02.png",
+                "temperature_min": "-2",
+                "hour": "2时-8时",
+                "temperature": "-2"
+            }
+        ],
+        "sun_begin_end": "07:15|16:51",
+        "ziwaixian": "中等",
+        "day_weather_pic": "http://app1.showapi.com/weather/icon/day/01.png",
+        "weekday": 1,
+        "night_air_temperature": "-4",
+        "day_air_temperature": "6",
+        "day_wind_direction": "无持续风向",
+        "day": "20161128",
+        "night_weather_pic": "http://app1.showapi.com/weather/icon/night/02.png",
+        "night_wind_direction": "无持续风向"
+    }
+}
